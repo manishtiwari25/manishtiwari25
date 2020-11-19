@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋
+
+I’m Manish Tiwari, a Software Engineer based in Bengaluru, India specializing in building Microservices, APIs and using (ASP).NET Core and related Stack with Clean Architecture.
+
+- 📫 Connect and reach me on [LinkedIn](https://www.linkedin.com/in/its-manishtiwari).
+- 😄 Pronouns: he/him/his
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manishtiwari25" alt="manishtiwari25" /> </p>
+
+<p align="left">  
+  <img src="https://github-readme-stats.vercel.app/api?username=manishtiwari25&show_icons=false" alt="manishtiwari25" />
+ </p>
+
+
