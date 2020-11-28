@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 
-I’m Manish Tiwari, a Software Engineer based in Bengaluru, India specializing in building Microservices, APIs and using (ASP).NET Core and related Stack with Clean Architecture.
+I’m Manish Tiwari, a Software Engineer based in Bengaluru, India specializing in building Microservices, APIs using (ASP).NET Core and related Stack with Clean Architecture.
 
 - 📫 Connect and reach me on [LinkedIn](https://www.linkedin.com/in/its-manishtiwari).
 - 😄 Pronouns: he/him/his
