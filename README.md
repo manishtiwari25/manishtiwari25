@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 
-I’m Manish Tiwari, a Software Engineer based in Bengaluru, India specializing in building Microservices, APIs using (ASP).NET Core and related Stack with Clean Architecture.
+I’m Manish Tiwari, a Associate Software Architect based in Bengaluru, India. specializing in building Microservices, APIs using (ASP).NET Core and related Stack with Clean Architecture.
 
 - 📫 Connect and reach me on [LinkedIn](https://www.linkedin.com/in/its-manishtiwari).
 - 😄 Pronouns: he/him/his
+- 🌐 [Blog](https://www.hungry-developer.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishtiwari25" alt="manishtiwari25" /> </p>
 
