@@ -19,7 +19,6 @@ I’m Manish Tiwari, a Associate Software Architect based in Bengaluru, India. s
 
 - 📫 Connect and reach me on [LinkedIn](https://www.linkedin.com/in/its-manishtiwari).
 - 😄 Pronouns: he/him/his
-- 🌐 [Blog](https://www.hungry-developer.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishtiwari25" alt="manishtiwari25" /> </p>
 
