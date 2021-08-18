@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
 I’m Manish Tiwari, a Software Engineer based in Bengaluru, India. specializing in building Microservices, APIs using (ASP).NET Core and related Stack with Clean Architecture.
 
