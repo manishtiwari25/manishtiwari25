@@ -22,12 +22,9 @@ I’m Manish Tiwari, a Software Engineer based in Bengaluru, India. specializing
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishtiwari25" alt="manishtiwari25" /> </p>
 
-<p align="center">  
+<p align="left">  
   <img src="https://github-readme-stats.vercel.app/api?username=manishtiwari25&show_icons=true&theme=material-palenight&include_all_commits=true" alt="manishtiwari25" />
- </p>
- 
- <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishtiwari25&layout=compact&theme=material-palenight" alt="manishtiwari25" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishtiwari25&layout=compact&theme=material-palenight" alt="manishtiwari25" />
  </p>
 
 
