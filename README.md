@@ -20,7 +20,6 @@ I’m Manish Tiwari, a Software Engineer based in Düsseldorf. specializing in b
 - 📫 Connect and reach me on [LinkedIn](https://www.linkedin.com/in/its-manishtiwari)
 - 😄 Pronouns: he/him/his
 - 🌱 I’m currently learning [GoLang](https://go.dev/)
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/its-manishtiwari)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishtiwari25" alt="manishtiwari25" /> </p>
 
