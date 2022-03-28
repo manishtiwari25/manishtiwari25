@@ -20,6 +20,8 @@ I’m Manish Tiwari, a Software Engineer based in Düsseldorf. specializing in b
 - 📫 Connect and reach me on [LinkedIn](https://www.linkedin.com/in/its-manishtiwari)
 - 😄 Pronouns: he/him/his
 - 🌱 I’m currently learning [GoLang](https://go.dev/)
+- 📓 I write sometimes [here](https://medium.com/@manish-tiwari)
+- 💬 Ask me about Azure, AWS and .Net (or the evolution of .Net core)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishtiwari25" alt="manishtiwari25" /> </p>
 
