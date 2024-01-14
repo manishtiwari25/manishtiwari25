@@ -19,6 +19,6 @@ I’m Manish Tiwari, a Software Engineer based in Düsseldorf. specializing in b
 - 📫 Connect and reach me on [LinkedIn](https://www.linkedin.com/in/its-manishtiwari)
 - 😄 Pronouns: he/him/his
 - 🌱 I’m currently learning [GoLang](https://go.dev/)
-- 📓 I write sometimes [here](https://medium.com/@manish-tiwari)
+- 📓 I write sometimes [here](https://blogs.bitesinbyte.com/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishtiwari25" alt="manishtiwari25" /> </p>
