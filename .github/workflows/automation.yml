@@ -1,0 +1,23 @@
+name: Latest Contributions
+on:
+  schedule:
+    # Runs every hour
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-stackexchange:
+    name: Update this repo's README with latest contributions
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "STACKOVERFLOW"
+          feed_list: "https://stackoverflow.com/feeds/user/8784568/"
+          max_post_count: 3
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "Blog"
+          feed_list: "https://blogs.bitesinbyte.com/sitemap.xml"
+          max_post_count: 3
