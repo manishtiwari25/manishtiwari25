@@ -4,7 +4,8 @@ on:
     # Runs every hour
     - cron: "0 2 * * *"
   workflow_dispatch:
-
+permissions:
+  contents: write
 jobs:
   update-readme-with-stackexchange:
     name: Update this repo's README with latest contributions
