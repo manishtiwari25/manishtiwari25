@@ -32,6 +32,9 @@ I’m Manish Tiwari, a Software Engineer based in Düsseldorf. specializing in b
 ### 🥞 Latest blog posts
 
 <!-- Blog:START -->
+- [Instagram Threads API Coming Soon: A Big Step Towards Taking on Twitter?](https://blogs.bitesinbyte.com//posts/instagram-thread-api/)
+- [Maximizing Your Facebook Page: Part 2 - Creating Post using REST Apis](https://blogs.bitesinbyte.com//posts/how-to-post-on-facebook-page-using-rest-api-part2/)
+- [Maximizing Your Facebook Page: Part 1 - Obtaining Your API Access Token](https://blogs.bitesinbyte.com//posts/how-to-post-on-facebook-page-using-rest-api-part1/)
 <!-- Blog:END -->
 
 
