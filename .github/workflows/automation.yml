@@ -20,5 +20,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "Blog"
-          feed_list: "https://blogs.bitesinbyte.com/sitemap.xml"
+          feed_list: "https://blogs.bitesinbyte.com/feed.xml"
           max_post_count: 3
