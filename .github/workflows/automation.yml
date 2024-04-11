@@ -22,3 +22,5 @@ jobs:
           comment_tag_name: "Blog"
           feed_list: "https://blogs.bitesinbyte.com/feed.xml"
           max_post_count: 3
+          item_exec: |
+                     if (item.author !== "manishtiwari25") post = null;
