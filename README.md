@@ -37,5 +37,6 @@ I’m Manish Tiwari, a Software Engineer based in Düsseldorf. specializing in b
 - [Maximizing Your Facebook Page: Part 1 - Obtaining Your API Access Token](https://blogs.bitesinbyte.com//posts/how-to-post-on-facebook-page-using-rest-api-part1/)
 <!-- Blog:END -->
 
+![Snake animation](https://github.com/manishtiwari25/manishtiwari25/blob/output/github-contribution-grid-snake.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishtiwari25" alt="manishtiwari25" /> </p>
