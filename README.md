@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+### Hi there <img src="https://raw.githubusercontent.com/egonelbre/gophers/master/icon/glowstick.gif" width="30px">
 
 I’m Manish Tiwari, I create and maintain serverless applications, terraform scripts, pipelines and AI workloads, ensuring high-quality delivery and user satisfaction. I leverage my expertise in Azure DevOps, Azure API Management, Azure Functions, and Terraform to automate infrastructure creation, deployment pipelines, and unit testing, resulting in improved efficiency, scalability, and reliability of the applications.
 
