@@ -18,7 +18,7 @@ I’m Manish Tiwari, I create and maintain serverless applications, terraform sc
 
 - 📫 Connect and reach me on [LinkedIn](https://www.linkedin.com/in/its-manishtiwari)
 - 😄 Pronouns: he/him/his
-- 🌱 I’m currently learning [GoLang](https://go.dev/)
+- 🌱 I’m currently learning [LangChain](https://python.langchain.com/v0.1/docs/get_started/quickstart/)🦜️🔗
 - 📓 I write sometimes [here](https://blogs.bitesinbyte.com/)
 
 ### 🥞 Latest StackOverflow contributions
