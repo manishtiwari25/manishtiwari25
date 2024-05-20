@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
-I’m Manish Tiwari, a Software Engineer based in Düsseldorf. specializing in building Microservices, and APIs using dotNET and related Stack with Clean Architecture.
+I’m Manish Tiwari, I create and maintain serverless applications, terraform scripts, pipelines and AI workloads, ensuring high-quality delivery and user satisfaction. I leverage my expertise in Azure DevOps, Azure API Management, Azure Functions, and Terraform to automate infrastructure creation, deployment pipelines, and unit testing, resulting in improved efficiency, scalability, and reliability of the applications.
 
 - 📫 Connect and reach me on [LinkedIn](https://www.linkedin.com/in/its-manishtiwari)
 - 😄 Pronouns: he/him/his
