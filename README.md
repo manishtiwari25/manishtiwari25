@@ -1,25 +1,26 @@
-<!--
-**manishtiwari25/manishtiwari25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there <img src="https://raw.githubusercontent.com/egonelbre/gophers/master/icon/glowstick.gif" width="30px">, I'm Manish Tiwari 👋
+Welcome to my GitHub profile! I'm passionate about creating and maintaining serverless applications, microservices, Terraform scripts, pipelines, AI workloads, and modern web applications. My focus is on delivering high-quality solutions that ensure user satisfaction and operational excellence.
 
-Here are some ideas to get you started:
+#### 🛠️ My Expertise
+- **⚡ Serverless Applications ->** Architecting and developing scalable, efficient serverless solutions and microservices using Azure Functions and other cloud services.
+- **🌐 Infrastructure as Code ->** Utilizing **Terraform** to automate the creation, management, and deployment of infrastructure, ensuring consistency and reliability.
+- **🚀 CI/CD Pipelines ->** Implementing and maintaining continuous integration and continuous deployment pipelines using **Azure DevOps** to streamline development processes and enhance productivity.
+- **🤖 AI Workloads->** Building, deploying, and maintaining AI workloads, including machine learning models and data processing pipelines, enhancing the capabilities and performance of applications through intelligent solutions.
+- **💻 Modern Web Applications ->** Developing dynamic, high-performance web applications using **Next.js**, React, and other modern web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hi there <img src="https://raw.githubusercontent.com/egonelbre/gophers/master/icon/glowstick.gif" width="30px">
+#### 🔧 Technologies & Tools
+- **Cloud Platforms ->** ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=Microsoft-Azure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=Google-Cloud&logoColor=white)
+- **Infrastructure as Code ->** ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=Terraform&logoColor=white)
+- **CI/CD ->** ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=Azure-DevOps&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=GitHub-Actions&logoColor=white)
+- **Languages ->** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=C-Sharp&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white)
+- **Web Development ->** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black)
 
-I’m Manish Tiwari, I create and maintain serverless applications, terraform scripts, pipelines and AI workloads, ensuring high-quality delivery and user satisfaction. I leverage my expertise in Azure DevOps, Azure API Management, Azure Functions, and Terraform to automate infrastructure creation, deployment pipelines, and unit testing, resulting in improved efficiency, scalability, and reliability of the applications.
-
-- 📫 Connect and reach me on [LinkedIn](https://www.linkedin.com/in/its-manishtiwari)
-- 😄 Pronouns: he/him/his
-- 🌱 I’m currently learning [LangChain](https://python.langchain.com/v0.1/docs/get_started/quickstart/)🦜️🔗
-- 📓 I write sometimes [here](https://blogs.bitesinbyte.com/)
+#### 🌟 What I Do
+- **⚙️ Automate Infrastructure Creation ->** Streamline and automate the creation and management of infrastructure, reducing manual intervention and minimizing errors.
+- **🔄 Optimize Deployment Pipelines ->** Develop and maintain robust deployment pipelines, ensuring smooth and efficient delivery of applications.
+- **📈 Enhance Scalability and Reliability ->** Focus on improving the scalability and reliability of applications through best practices and innovative solutions.
+- **✅ Ensure High-Quality Delivery ->** Prioritize user satisfaction by ensuring high-quality delivery through rigorous testing and continuous improvement.
+- **🧠 Leverage AI ->** Integrate AI and machine learning into applications to solve complex problems and enhance functionality.
 
 ### 🥞 Latest StackOverflow contributions
 
