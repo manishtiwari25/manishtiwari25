@@ -44,4 +44,7 @@ Welcome to my GitHub profile! I'm passionate about creating and maintaining serv
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/manishtiwari25/manishtiwari25/output/github-contribution-grid-snake.svg">
 </picture>
 
+### Certifications
+![HashiCorp Certified: Terraform Associate](https://images.credly.com/size/250x250/images/99289602-861e-4929-8277-773e63a2fa6f/image.png)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishtiwari25" alt="manishtiwari25" /> </p>
