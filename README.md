@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I'm passionate about creating and maintaining serv
 - **⚡ Serverless Applications ->** Architecting and developing scalable, efficient serverless solutions and microservices using Azure Functions and other cloud services.
 - **🌐 Infrastructure as Code ->** Utilizing **Terraform** to automate the creation, management, and deployment of infrastructure, ensuring consistency and reliability.
 - **🚀 CI/CD Pipelines ->** Implementing and maintaining continuous integration and continuous deployment pipelines using **Azure DevOps** to streamline development processes and enhance productivity.
-- **🤖 AI Workloads->** Building, deploying, and maintaining AI workloads, including machine learning models and data processing pipelines, enhancing the capabilities and performance of applications through intelligent solutions.
 - **💻 Modern Web Applications ->** Developing dynamic, high-performance web applications using **Next.js**, React, and other modern web technologies.
 
 #### 🔧 Technologies & Tools
