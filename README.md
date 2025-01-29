@@ -24,9 +24,9 @@ Welcome to my GitHub profile! I'm passionate about creating and maintaining serv
 ### 🥞 Latest StackOverflow contributions
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Manish for iOS app created with Capacitor is unable to start](https://stackoverflow.com/questions/79390365/ios-app-created-with-capacitor-is-unable-to-start/79394230#79394230)
 - [Answer by Manish for Microsoft Graph Api Permissions - list of all applications](https://stackoverflow.com/questions/78310792/microsoft-graph-api-permissions-list-of-all-applications/78311053#78311053)
 - [Answer by Manish for How to read Timer Trigger Schedule parameter from Azure App Configuration in Azure Functions?](https://stackoverflow.com/questions/76310081/how-to-read-timer-trigger-schedule-parameter-from-azure-app-configuration-in-azu/76314377#76314377)
-- [Answer by Manish for Azure Service Bus Queue: re-schedule messages while increasing deliveryCount](https://stackoverflow.com/questions/76311885/azure-service-bus-queue-re-schedule-messages-while-increasing-deliverycount/76314222#76314222)
 <!-- STACKOVERFLOW:END -->
 
 ### 🥞 Latest blog posts
