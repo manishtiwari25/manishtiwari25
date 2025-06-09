@@ -24,9 +24,9 @@ Welcome to my GitHub profile! I'm passionate about creating and maintaining serv
 ### 🥞 Latest StackOverflow contributions
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Manish for Durable Function executes with default timeout ignoring the host.json Timeout setting](https://stackoverflow.com/questions/79657431/durable-function-executes-with-default-timeout-ignoring-the-host-json-timeout-se/79657523#79657523)
 - [Answer by Manish for iOS app created with Capacitor is unable to start](https://stackoverflow.com/questions/79390365/ios-app-created-with-capacitor-is-unable-to-start/79394230#79394230)
 - [Answer by Manish for Microsoft Graph Api Permissions - list of all applications](https://stackoverflow.com/questions/78310792/microsoft-graph-api-permissions-list-of-all-applications/78311053#78311053)
-- [Answer by Manish for How to read Timer Trigger Schedule parameter from Azure App Configuration in Azure Functions?](https://stackoverflow.com/questions/76310081/how-to-read-timer-trigger-schedule-parameter-from-azure-app-configuration-in-azu/76314377#76314377)
 <!-- STACKOVERFLOW:END -->
 
 ### 🥞 Latest blog posts
