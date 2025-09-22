@@ -44,6 +44,6 @@ Welcome to my GitHub profile! I'm passionate about creating and maintaining serv
 </picture>
 
 ### Certifications
-![HashiCorp Certified: Terraform Associate](https://images.credly.com/size/250x250/images/99289602-861e-4929-8277-773e63a2fa6f/image.png)
+![HashiCorp Certified: Terraform Associate](https://images.credly.com/size/680x680/images/cd038261-9d1c-4792-bc62-3a3b5bda175c/blob)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishtiwari25" alt="manishtiwari25" /> </p>
