@@ -17,10 +17,3 @@ jobs:
           comment_tag_name: "STACKOVERFLOW"
           feed_list: "https://stackoverflow.com/feeds/user/8784568/"
           max_post_count: 3
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: "Blog"
-          feed_list: "https://blogs.bitesinbyte.com/feed.xml"
-          max_post_count: 3
-          item_exec: |
-                     if (item.author !== "manishtiwari25") post = null;
